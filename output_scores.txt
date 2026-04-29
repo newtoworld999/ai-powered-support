@@ -1,0 +1,92 @@
+
+==============================
+PROMPT 1: Write a story about AI in education
+------------------------------
+Clarity: 9/10
+Specificity: 8/10
+Context: 9/10
+Output Format: 9/10
+Persona: 7/10 (AI Educator)
+
+Final Score: 8.6/10
+
+Explanation:
+The prompt is clear and specific, with a focus on AI in education. The context provided is relevant to the topic, but could be slightly more detailed.
+
+Output format is appropriate for a story, making it easy to read and visualize.
+
+However, the persona of an AI Educator could be more fleshed out, as it would add depth to the story. A suggestion for improvement could be:
+
+1. Develop the persona of an AI Educator by giving them a unique name, background, and personality traits. This will help readers connect with the character and the story.
+
+==============================
+PROMPT 2: Summarize quantum computing for beginners
+------------------------------
+Clarity: 9/10
+Specificity: 8/10
+Context: 9/10
+Output Format: 9/10
+Persona: 8/10
+
+Final Score: 8.7/10
+
+Explanation:
+The prompt is clear and concise, targeting beginners in quantum computing. However, it could be more specific by mentioning a particular aspect or topic within quantum computing for beginners.
+
+Actionable Suggestions:
+
+1. Add specificity to the prompt: "Summarize the basics of quantum computing, focusing on qubits and simple algorithms."
+2. Include an example or scenario to help beginners visualize the concept: "Explain how qubits can represent both 0 and 1 simultaneously using a simple example."
+3. Provide a reference or link for further learning: "For interested readers, recommend a beginner-friendly resource like 'Quantum Computing for the Determined' by Michael A. Nielsen."
+
+==============================
+PROMPT 3: Act as a career coach and give interview tips
+------------------------------
+Clarity: 9/10
+Specificity: 8/10
+Context: 10/10
+Output Format: 9/10
+Persona: 8/10 (Assuming you're targeting a professional audience)
+
+Final Score: 9.2/10
+
+Explanation:
+The prompt is clear and specific, focusing on interview tips for a career coach. The context is strong, as interviews are typically part of the job search process.
+
+Output format is well-suited for this type of content, and the persona assumption (a professional audience) aligns with the expected target.
+
+Overall, the prompt quality score reflects a high level of clarity, specificity, and appropriateness for its intended purpose.
+
+==============================
+PROMPT 4: Write a formal email requesting leave
+------------------------------
+Clarity: 9/10
+Specificity: 8/10
+Context: 10/10
+Output Format: 10/10
+Persona: 10/10
+
+Final Score: 9.5/10
+
+Explanation:
+The prompt is clear and specific, asking for a formal email requesting leave. The context is provided (email format), and the output format is expected. The persona is not specified in this prompt.
+
+Actionable Suggestions:
+
+1. Include your personal information (name, position) at the beginning of the email.
+2. Clearly state the purpose of your leave request, mentioning the start date and end date.
+3. If there are any specific tasks or responsibilities you need to hand over during your absence, clearly communicate them in the email.
+
+==============================
+PROMPT 5: Create a funny tweet about Mondays
+------------------------------
+Clarity: 9/10
+Specificity: 8/10
+Context: 10/10 (Mondays and humor are clear contexts)
+Output Format: 9/10 (Could be slightly more concise)
+Persona: 7/10 (Humor is assumed, but the persona could be more relatable)
+
+Final Score: 8.5/10
+
+Explanation:
+The tweet idea is clear and funny, targeting Monday blues. However, the persona could be more relatable to engage a wider audience. Overall, it's a strong tweet concept.
