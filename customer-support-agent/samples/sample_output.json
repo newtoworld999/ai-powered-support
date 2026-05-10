@@ -1,0 +1,47 @@
+[
+  {
+    "email_id": "email_1",
+    "urgency": "Low",
+    "topic": "Account",
+    "response": "To reset your password, go to the login page and click 'Forgot Password'. Follow the instructions sent to your email.",
+    "escalate": false,
+    "follow_up": null,
+    "kb_answer": "To reset your password, go to the login page and click 'Forgot Password'. Follow the instructions sent to your email."
+  },
+  {
+    "email_id": "email_2",
+    "urgency": "Medium",
+    "topic": "Bug",
+    "response": "Thank you for reporting the bug. Our team will investigate and release a fix in the next update.",
+    "escalate": true,
+    "follow_up": null,
+    "kb_answer": "Thank you for reporting the bug. Our team will investigate and release a fix in the next update."
+  },
+  {
+    "email_id": "email_3",
+    "urgency": "High",
+    "topic": "Billing",
+    "response": "If you were charged twice, please contact billing support at billing@company.com with your invoice number.",
+    "escalate": true,
+    "follow_up": "Schedule follow-up in 3 days",
+    "kb_answer": "If you were charged twice, please contact billing support at billing@company.com with your invoice number."
+  },
+  {
+    "email_id": "email_4",
+    "urgency": "Low",
+    "topic": "Feature Request",
+    "response": "We appreciate your suggestion for dark mode. It has been added to our feature backlog.",
+    "escalate": false,
+    "follow_up": null,
+    "kb_answer": "We appreciate your suggestion for dark mode. It has been added to our feature backlog."
+  },
+  {
+    "email_id": "email_5",
+    "urgency": "Medium",
+    "topic": "Technical Issue",
+    "response": "For API 504 errors, check your network connection and retry. If persistent, escalate to technical support.",
+    "escalate": true,
+    "follow_up": "Schedule follow-up in 3 days",
+    "kb_answer": "For API 504 errors, check your network connection and retry. If persistent, escalate to technical support."
+  }
+]

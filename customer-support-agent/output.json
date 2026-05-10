@@ -1,0 +1,11 @@
+[
+  {
+    "email_content": "I want a refund for my purchase.",
+    "urgency": "Medium",
+    "topic": "Technical Issue",
+    "kb_answer": null,
+    "response": "Thank you for your email. We are looking into this issue and will get back to you soon.",
+    "escalate": true,
+    "follow_up": "Schedule follow-up in 3 days"
+  }
+]

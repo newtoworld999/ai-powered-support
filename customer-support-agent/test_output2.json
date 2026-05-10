@@ -1,0 +1,52 @@
+[
+  {
+    "email_content": "How do I reset my password?",
+    "urgency": "Medium",
+    "topic": "Technical Issue",
+    "kb_answer": null,
+    "response": "Thank you for your email. We are looking into this issue and will get back to you soon.",
+    "escalate": true,
+    "follow_up": "Schedule follow-up in 3 days",
+    "email_id": "email_1"
+  },
+  {
+    "email_content": "The export feature crashes when I select PDF format.",
+    "urgency": "Medium",
+    "topic": "Technical Issue",
+    "kb_answer": null,
+    "response": "Thank you for your email. We are looking into this issue and will get back to you soon.",
+    "escalate": true,
+    "follow_up": "Schedule follow-up in 3 days",
+    "email_id": "email_2"
+  },
+  {
+    "email_content": "I was charged twice for my subscription!",
+    "urgency": "Medium",
+    "topic": "Technical Issue",
+    "kb_answer": null,
+    "response": "Thank you for your email. We are looking into this issue and will get back to you soon.",
+    "escalate": true,
+    "follow_up": "Schedule follow-up in 3 days",
+    "email_id": "email_3"
+  },
+  {
+    "email_content": "Can you add dark mode to the mobile app?",
+    "urgency": "Medium",
+    "topic": "Technical Issue",
+    "kb_answer": null,
+    "response": "Thank you for your email. We are looking into this issue and will get back to you soon.",
+    "escalate": true,
+    "follow_up": "Schedule follow-up in 3 days",
+    "email_id": "email_4"
+  },
+  {
+    "email_content": "Our API integration fails intermittently with 504 errors.",
+    "urgency": "Medium",
+    "topic": "Technical Issue",
+    "kb_answer": "For API 504 errors, check your network connection and retry. If persistent, escalate to technical support.",
+    "response": "For API 504 errors, check your network connection and retry. If persistent, escalate to technical support.",
+    "escalate": true,
+    "follow_up": "Schedule follow-up in 3 days",
+    "email_id": "email_5"
+  }
+]

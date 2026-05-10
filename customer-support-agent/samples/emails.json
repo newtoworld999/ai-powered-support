@@ -1,0 +1,22 @@
+[
+  {
+    "id": "email_1",
+    "content": "How do I reset my password?"
+  },
+  {
+    "id": "email_2",
+    "content": "The export feature crashes when I select PDF format."
+  },
+  {
+    "id": "email_3",
+    "content": "I was charged twice for my subscription!"
+  },
+  {
+    "id": "email_4",
+    "content": "Can you add dark mode to the mobile app?"
+  },
+  {
+    "id": "email_5",
+    "content": "Our API integration fails intermittently with 504 errors."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "email_content": "How do I reset my password?",
+    "urgency": "Medium",
+    "topic": "Account",
+    "kb_answer": "To reset your password, go to the login page and click 'Forgot Password'. Follow the instructions sent to your email.",
+    "response": "To reset your password, go to the login page and click 'Forgot Password'. Follow the instructions sent to your email.",
+    "escalate": false,
+    "follow_up": null,
+    "email_id": "email_1"
+  },
+  {
+    "email_content": "The export feature crashes when I select PDF format.",
+    "urgency": "High",
+    "topic": "Bug",
+    "kb_answer": "Thank you for reporting the bug. Our team will investigate and release a fix in the next update.",
+    "response": "Thank you for reporting the bug. Our team will investigate and release a fix in the next update.",
+    "escalate": true,
+    "follow_up": "Schedule follow-up in 3 days",
+    "email_id": "email_2"
+  },
+  {
+    "email_content": "I was charged twice for my subscription!",
+    "urgency": "High",
+    "topic": "Billing",
+    "kb_answer": "If you were charged twice, please contact billing support at billing@company.com with your invoice number.",
+    "response": "If you were charged twice, please contact billing support at billing@company.com with your invoice number.",
+    "escalate": true,
+    "follow_up": "Schedule follow-up in 3 days",
+    "email_id": "email_3"
+  },
+  {
+    "email_content": "Can you add dark mode to the mobile app?",
+    "urgency": "Medium",
+    "topic": "Feature Request",
+    "kb_answer": "We appreciate your suggestion for dark mode. It has been added to our feature backlog.",
+    "response": "We appreciate your suggestion for dark mode. It has been added to our feature backlog.",
+    "escalate": false,
+    "follow_up": null,
+    "email_id": "email_4"
+  },
+  {
+    "email_content": "Our API integration fails intermittently with 504 errors.",
+    "urgency": "High",
+    "topic": "Technical Issue",
+    "kb_answer": "For API 504 errors, check your network connection and retry. If persistent, escalate to technical support.",
+    "response": "For API 504 errors, check your network connection and retry. If persistent, escalate to technical support.",
+    "escalate": true,
+    "follow_up": "Schedule follow-up in 3 days",
+    "email_id": "email_5"
+  }
+]
